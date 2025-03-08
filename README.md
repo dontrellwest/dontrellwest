@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1>Hi, I'm Dontrell, an <a href="https://www.linkedin.com/in/dontrellwest">IT Professional</a></h1>
 
-<!--
-**dontrellwest/dontrellwest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Microsoft Azure</b>
+  - [Creating Windows and Linux Virtual Machines Using Microsoft Azure](https://github.com/dontrellwest/azure-virtual-machine-creation)
+  - [Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines](https://github.com/dontrellwest/azure-network-protocols)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- <b>Inspecting Protocol Traffic Between Azure Virtual Machines Using Wireshark</b>
+  - [Setting Up Wireshark on an Azure VM Using Windows App (Mac) & Remote Desktop (Windows)](https://github.com/dontrellwest/install-wireshark)
+  - [Ping ICMP Between Azure Virtual Machines Using PowerShell](https://github.com/dontrellwest/ping-icmp)
+  - [Inspecting SSH Connections in Wireshark Using PowerShell and Azure VMs](https://github.com/dontrellwest/ssh)
+  - [Capturing DHCP Requests and Responses in Wireshark on Azure VMs](https://github.com/dontrellwest/dhcp)
+  - [Analyzing DNS Lookups in Wireshark Using PowerShell and Azure VMs](https://github.com/dontrellwest/dns)
+  - [Capturing Remote Desktop Protocol (RDP) Traffic in Wireshark on Azure VMs](https://github.com/dontrellwest/rdp)
+
+
+
+<h2>🤳Connect with me:</h2>
+
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/dontrellwest
