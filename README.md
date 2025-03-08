@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dontrell, an <a href="https://www.linkedin.com/in/dontrellwest">IT Professional</a></h1>
+Hi, I'm Dontrell, an <a href="https://www.linkedin.com/in/dontrellwest">IT Professional</a>
 
 <h2> Information Technology Projects:</h2>
 
