@@ -8,9 +8,9 @@
 
 - <b>Inspecting Protocol Traffic Between Azure Virtual Machines Using Wireshark</b>
   - [Setting Up Wireshark on an Azure VM Using Windows App (Mac) & Remote Desktop (Windows)](https://github.com/dontrellwest/install-wireshark)
-  - [Ping ICMP Between Azure Virtual Machines Using PowerShell](https://github.com/dontrellwest/ping-icmp)
-  - [Network Security Group](https://github.com/dontrellwest/nsg)
-  - [Inspecting SSH Connections in Wireshark Using PowerShell and Azure VMs](https://github.com/dontrellwest/ssh)
-  - [Capturing DHCP Requests and Responses in Wireshark on Azure VMs](https://github.com/dontrellwest/dhcp)
-  - [Analyzing DNS Lookups in Wireshark Using PowerShell and Azure VMs](https://github.com/dontrellwest/dns)
-  - [Capturing Remote Desktop Protocol (RDP) Traffic in Wireshark on Azure VMs](https://github.com/dontrellwest/rdp)
+  - [ICMP: Ping ICMP Between Azure Virtual Machines Using PowerShell](https://github.com/dontrellwest/ping-icmp)
+  - [NSG: Configuring a Network Security Group (NSG) to Control ICMP Traffic in Azure](https://github.com/dontrellwest/nsg)
+  - [SSH: Inspecting SSH Connections in Wireshark Using PowerShell and Azure VMs](https://github.com/dontrellwest/ssh)
+  - [DHCP: Capturing DHCP Requests and Responses in Wireshark on Azure VMs](https://github.com/dontrellwest/dhcp)
+  - [DNS: Analyzing DNS Lookups in Wireshark Using PowerShell and Azure VMs](https://github.com/dontrellwest/dns)
+  - [RDP: Capturing Remote Desktop Protocol (RDP) Traffic in Wireshark on Azure VMs](https://github.com/dontrellwest/rdp)
