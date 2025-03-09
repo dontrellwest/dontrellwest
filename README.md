@@ -4,8 +4,6 @@
 
 - <b>Microsoft Azure</b>
   - [Creating Windows and Linux Virtual Machines Using Microsoft Azure](https://github.com/dontrellwest/azure-virtual-machine-creation)
-  - [Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines](https://github.com/dontrellwest/azure-network-protocols)
-
 
 
 - <b>Inspecting Protocol Traffic Between Azure Virtual Machines Using Wireshark</b>
