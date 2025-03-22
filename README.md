@@ -14,3 +14,7 @@
   - [DHCP: Capturing DHCP Requests and Responses in Wireshark on Azure VMs](https://github.com/dontrellwest/dhcp)
   - [DNS: Analyzing DNS Lookups in Wireshark Using PowerShell and Azure VMs](https://github.com/dontrellwest/dns)
   - [RDP: Capturing Remote Desktop Protocol (RDP) Traffic in Wireshark on Azure VMs](https://github.com/dontrellwest/rdp)
+
+
+- <b>osTicket (Ticketing System)</b>
+  - [Install and Setup osTicket](https://github.com/dontrellwest/osticket-setup)
