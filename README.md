@@ -1,20 +1,15 @@
-<h1>Hi, I'm Dontrell, an <a href="https://www.linkedin.com/in/dontrellwest">IT Professional</a></h1>
+# Hi, I'm Dontrell
 
-<h2> Information Technology Projects:</h2>
+IT Support professional based in San Diego. CompTIA Security+ certified, currently working through the Cisco CCNA to strengthen networking knowledge and skills, as well as in a Cyber Range to get real-world experience in cybersecurity.
 
-- <b>Microsoft Azure</b>
-  - [Creating Windows and Linux Virtual Machines Using Microsoft Azure](https://github.com/dontrellwest/azure-virtual-machine-creation)
+My background is a mix of hands-on IT work going back to 2008, six years as a Machinist Mate on U.S. Navy submarines, five years as an Audio Engineer, and recent lab work covering systems administration, networking, and help desk operations.
 
+## Labs
 
-- <b>Inspecting Protocol Traffic Between Azure Virtual Machines Using Wireshark</b>
-  - [Setting Up Wireshark on an Azure VM Using Windows App (Mac) & Remote Desktop (Windows)](https://github.com/dontrellwest/install-wireshark)
-  - [ICMP: Ping ICMP Between Azure Virtual Machines Using PowerShell](https://github.com/dontrellwest/ping-icmp)
-  - [NSG: Configuring a Network Security Group (NSG) to Control ICMP Traffic in Azure](https://github.com/dontrellwest/nsg)
-  - [SSH: Inspecting SSH Connections in Wireshark Using PowerShell and Azure VMs](https://github.com/dontrellwest/ssh)
-  - [DHCP: Capturing DHCP Requests and Responses in Wireshark on Azure VMs](https://github.com/dontrellwest/dhcp)
-  - [DNS: Analyzing DNS Lookups in Wireshark Using PowerShell and Azure VMs](https://github.com/dontrellwest/dns)
-  - [RDP: Capturing Remote Desktop Protocol (RDP) Traffic in Wireshark on Azure VMs](https://github.com/dontrellwest/rdp)
+- [Azure Network Traffic Analysis](https://github.com/dontrellwest/azure-network-traffic-analysis) — deployed Windows and Linux VMs in Azure and used Wireshark to analyze live traffic across ICMP, SSH, DHCP, DNS, and RDP protocols
+- [osTicket Help Desk Setup](https://github.com/dontrellwest/osticket-setup) — installed and configured a full help desk environment including IIS, PHP, MySQL, SLA tiers, and ticket lifecycle workflows
+- Active Directory Lab — coming soon
 
+## Connect
 
-- <b>osTicket (Ticketing System)</b>
-  - [Install and Setup osTicket](https://github.com/dontrellwest/osticket-setup)
+[LinkedIn](https://www.linkedin.com/in/dontrellwest)
