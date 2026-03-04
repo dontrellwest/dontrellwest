@@ -8,7 +8,7 @@ My background is a mix of hands-on IT work going back to 2008, six years as a Ma
 
 - [Azure Network Traffic Analysis](https://github.com/dontrellwest/azure-network-traffic-analysis) — deployed Windows and Linux VMs in Azure and used Wireshark to analyze live traffic across ICMP, SSH, DHCP, DNS, and RDP protocols
 - [osTicket Help Desk Setup](https://github.com/dontrellwest/osticket-setup) — installed and configured a full help desk environment including IIS, PHP, MySQL, SLA tiers, and ticket lifecycle workflows
-- Active Directory Lab — coming soon
+- [Active Directory Domain Setup](https://github.com/dontrellwest/active-directory-setup) — built a domain environment in Azure with a Windows Server domain controller, configured OUs, created admin and user accounts, and joined a Windows 10 client to the domain
 
 ## Connect
 
