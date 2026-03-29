@@ -2,7 +2,7 @@
 
 IT Support professional based in San Diego. CompTIA Security+ certified, currently working through the Cisco CCNA.
 
-My background is a mix of hands-on IT work going back to 2008, six years as a Machinist Mate on U.S. Navy submarines, five years as an Audio Engineer, and recent lab work covering systems administration, networking, and help desk operations.
+My background is a mix of hands-on IT work, six years as a Machinist Mate on U.S. Navy submarines, five years as an Audio Engineer, and recent lab work covering systems administration, networking, and help desk operations.
 
 ## Labs
 
