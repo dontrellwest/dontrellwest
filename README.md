@@ -1,6 +1,6 @@
 # Hi, I'm Dontrell
 
-IT Support professional based in San Diego. CompTIA Security+ certified, currently working through the Cisco CCNA.
+IT Support professional based in San Diego. CompTIA Security+ certified, currently working towards AZ-104.
 
 My background is a mix of hands-on IT work, six years as a Machinist Mate on U.S. Navy submarines, five years as an Audio Engineer, and recent lab work covering systems administration, networking, and help desk operations.
 
