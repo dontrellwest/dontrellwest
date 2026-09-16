@@ -6,7 +6,7 @@ My background is a mix of hands-on IT work, six years as a Machinist Mate on U.S
 
 ## Projects
 
-- [Windows 11 Troubleshooting Toolkit](https://github.com/dontrellwest/win11-troubleshooting-toolkit) — built a 30-tool PowerShell diagnostic and repair toolkit for Windows 11 machines on Active Directory and Microsoft 365 that runs from a flash drive with nothing installed: 24 read-only diagnostics, 5 guarded repairs with -WhatIf previews, a WinRM fleet runner, and a 901-check automated acceptance suite
+- [Windows 11 Troubleshooting Toolkit](https://github.com/dontrellwest/win11-troubleshooting-toolkit) — built a 59-tool PowerShell diagnostic and repair toolkit for Windows 11 machines on Active Directory and Microsoft 365 that runs from a flash drive with nothing installed: 35 read-only checks, 23 guarded repairs with -WhatIf previews, a before/after case workflow, a WinRM fleet runner, and a 1,761-check automated acceptance suite
 
 ## Labs
 
