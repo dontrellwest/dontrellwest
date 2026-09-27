@@ -6,7 +6,7 @@ My background is a mix of hands-on IT work, six years as a Machinist Mate on U.S
 
 ## Projects
 
-- [Windows 11 Troubleshooting Toolkit](https://github.com/dontrellwest/win11-troubleshooting-toolkit) — built a 30-tool PowerShell and CMD toolkit for Windows 11 machines on Active Directory and Microsoft 365 that runs from a flash drive with nothing installed: 19 read-only checks that explain what they find in plain language with next steps, 11 one-click repairs using standard Windows commands, every tool proven by a real run on a Windows 11 laptop, and 1,308 automated checks
+- [Windows 11 Troubleshooting Toolkit](https://github.com/dontrellwest/win11-troubleshooting-toolkit) — built a 30-tool PowerShell and CMD toolkit for Windows 11 machines on Active Directory and Microsoft 365 that runs from a flash drive with nothing installed: 19 read-only checks that explain what they find in plain language with next steps, 11 one-click repairs using standard Windows commands, and every tool proven by a real run on a Windows 11 laptop
 
 ## Labs
 
